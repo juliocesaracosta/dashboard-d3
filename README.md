@@ -1,2 +1,2 @@
 # dashboard-D3
-Laboratorio maestría análisis visualización de datos (UNIR)
+Laboratorio maestría análisis y visualización de datos (UNIR)
